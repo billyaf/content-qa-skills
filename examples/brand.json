@@ -1,0 +1,11 @@
+{
+  "name": "Aurora (fictional)",
+  "sizes": { "1080x1350": "feed/carousel 4:5", "1080x1920": "story/reel 9:16" },
+  "palette": { "night": "#1b1446", "violet": "#4b2a9b", "orchid": "#c06bd6", "coral": "#ff8a5c", "white": "#ffffff" },
+  "background": ["#1b1446", "#4b2a9b", "#7a3fb8", "#c06bd6"],
+  "edgeColors": ["#ff8a5c", "#ffffff"],
+  "contentColumn": [108, 972],
+  "skipTop": 200,
+  "skipBottom": 130,
+  "quietStdDev": 10
+}

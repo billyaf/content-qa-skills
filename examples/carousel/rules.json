@@ -1,0 +1,6 @@
+{
+  "terms": [{ "wrong": ["e-mail"], "right": "email", "source": "house style guide" }],
+  "spelling": [["recieve", "receive"], ["seperate", "separate"]],
+  "hashtags": { "official": ["#Aurora", "#AIliteracy"], "undecided": ["#PrivacyFirst"] },
+  "limits": { "title_lines": 3, "caption_chars": 2200, "max_hashtags": 8 }
+}
